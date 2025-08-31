@@ -67,6 +67,10 @@ print(predicciones.head())
 
 ---
 
+📢 Reconocimientos
+
+Gracias a todos los colaboradores que ayuden a mejorar este proyecto. ¡Tu contribución es bienvenida!
+
 Autor: José Carlos Peralta
 
 
