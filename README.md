@@ -18,4 +18,4 @@ Proveer ejemplos prácticos de predicciones financieras que ayuden en la toma de
 - `reports/`: resultados, visualizaciones y métricas.
 
 ---
-👨‍💻 Autor: PEPE
+👨‍💻 Autor: José Carlos Peralta
