@@ -19,3 +19,9 @@ Proveer ejemplos prácticos de predicciones financieras que ayuden en la toma de
 
 ---
 👨‍💻 Autor: José Carlos Peralta
+
+###  Contacto Profesional
+
+-  LinkedIn: [Jose Carlos Peralta](https://www.linkedin.com/in/elcontadorperalta/)
+-  GitHub: [josecarlosperalta](https://github.com/josecarlosperalta)
+-  Email: jose.estudioperalta@gmail.com
